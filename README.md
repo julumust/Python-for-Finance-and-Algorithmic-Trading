@@ -1,2 +1,4 @@
-# Python-for-Finance-and-Algorithmic-Trading-
+# Python-for-Finance-and-Algorithmic-Trading
 A comprehensive overview of how to employ python libraries for algorithmic trading.
+
+A more in-depth overview will be available shortly.
